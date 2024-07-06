@@ -1,6 +1,5 @@
-package net.skhu.swea.D1.SWEA_2072;
-
 import java.util.Scanner;
+import java.io.FileInputStream;
 
 class Solution
 {
